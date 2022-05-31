@@ -91,7 +91,7 @@ function TodoContainer() {
 
         <Navbar />
         <Routes>
-          <Route path="/"
+          <Route path="/Todo-App"
             element={
               <div className="container">
                 <div className="inner">

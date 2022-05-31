@@ -11,7 +11,7 @@ function Navbar() {
 	const links = [
 	  {
 	    id: 1,
-	    path: "/",
+	    path: "/Todo-App",
 	    text: "Home",
 	  },
 	  {
